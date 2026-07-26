@@ -70,3 +70,7 @@ Reflexión sobre la aplicación de feedback radicalmente sincero
 
 Durante el desarrollo de esta automatización apliqué el enfoque de feedback radicalmente sincero al evaluar tanto los errores del proceso como las decisiones tomadas. En lugar de buscar responsables, me concentré en identificar las causas reales de los inconvenientes, como el uso de fórmulas manuales y la falta de una estructura estandarizada. A partir de esas observaciones, implementé mejoras concretas, como el uso de Tablas de Excel, columnas derivadas y referencias estructuradas.
 Esta forma de analizar el trabajo permitió transformar los errores en oportunidades de aprendizaje, fortalecer la solución implementada y establecer buenas prácticas para futuros proyectos.
+
+Uso de Control de Versiones
+
+Durante el desarrollo se registraron los cambios utilizando Git para mantener trazabilidad de las mejoras implementadas.
