@@ -1,4 +1,4 @@
-*Contexto*
+# Contexto
 
 En un entorno administrativo dedicado a la gestión de facturación y control de información financiera, se trabajaba diariamente con planillas de Excel que contenían datos de clientes, importes, impuestos y márgenes de ganancia. Cada registro requería calcular automáticamente valores como el IVA, la alícuota correspondiente y la ganancia obtenida sobre cada operación.
 
